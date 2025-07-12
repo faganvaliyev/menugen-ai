@@ -23,17 +23,3 @@ MenuGen AI is an intelligent Streamlit-based application that:
    ```bash
    git clone https://github.com/your-username/menugen-ai.git
    cd menugen-ai
-
-## 📁 Project Structure
-
-menugen-ai/
-├── app.py
-├── config/
-│   └── settings.py
-├── services/
-│   ├── ocr_service.py
-│   ├── openai_service.py
-│   └── replicated_service.py
-├── .env.example
-├── requirements.txt
-└── README.md
