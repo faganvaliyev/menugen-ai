@@ -1,6 +1,6 @@
-# MenuGen AI 🍽️🤖
+# Menu AI 🍽️🤖
 
-MenuGen AI is an intelligent Streamlit-based application that:
+Menu AI is an intelligent Streamlit-based application that:
 - 📷 Extracts **dish names** from restaurant **menu images**
 - 🧠 Uses **ChatGPT** (OpenAI API) to retrieve **ingredients** for selected dishes
 - 🎨 Generates **realistic dish images** using **Replicate's Flux-Pro model**
